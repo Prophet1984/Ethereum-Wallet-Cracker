@@ -1,4 +1,4 @@
-**Ethereum-Wallet-Cracker**
+**Ethereum-Wallet-Cracker** For Windows only
 
 
 
