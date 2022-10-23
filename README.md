@@ -9,9 +9,6 @@ Generate random ethereum wallets &amp; private keys and then check if they match
 # HOW TO RUN
 Just start run.bat (or run.sh if you're on linux).
 
-# SPEED / PERFORMANCE
-Very slow at the moment (haven't checked the actual speed yet). I literally just made it, will be updated when I get the time and care enough.. this is just an idea for now but still is going to work if you have extreme luck and find a wallet quickly lol.
-
 # TEST IT
 Go to the test folder and hit run. It will show you what would happen if a wallet from your list was found.
 
