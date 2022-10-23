@@ -18,12 +18,8 @@ Go to the test folder and hit run. It will show you what would happen if a walle
 # WHY DO THIS?
 Just like with bitcoin, there are some ethereum wallets with high balances that are lost forever, which means nobody can access them and the money is basically there just to be picked up by anyone. This program can possibly find these lost wallets and their matching private keys & 12 words and take the eth out of them.
 
-# WANT TO THANK ME?
-It will be greatly appreciated if you can give this project a star :)
-
 # NOTE
 I'm not actually responsible for what you do with this. Don't steal active wallet money, that's just wrong. Not to mention the new wallets are most likely protected much more with extra password and stuff.
-I'm not the actual designer of this software, i just updated it to october 12'th 2022, it should work fine till the bear market is over!
 
 # Also Note
 It's almost impossible to find anything. The chances of winning are extremely low. You could get lucky though, good luck!
