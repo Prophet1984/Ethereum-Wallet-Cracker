@@ -28,4 +28,4 @@ I'm not actually responsible for what you do with this. Don't steal active walle
 It's almost impossible to find anything. The chances of winning are extremely low. You could get lucky though, good luck!
 
 # Why would this even be possible?
-Because most used apps for ethereum use only one main Derivation Path (to my surprise) and don't even use extra passwords or anything for new wallets (to my surprise aswel!)
+Because most used apps for ethereum use only one main Derivation Path and don't even use extra passwords or anything for new wallets.
