@@ -23,6 +23,7 @@ It will be greatly appreciated if you can give this project a star :)
 
 # NOTE
 I'm not actually responsible for what you do with this. Don't steal active wallet money, that's just wrong. Not to mention the new wallets are most likely protected much more with extra password and stuff.
+I'm not the actual designer of this software, i just updated it to october 12'th 2022, it should work fine till the bear market is over!
 
 # Also Note
 It's almost impossible to find anything. The chances of winning are extremely low. You could get lucky though, good luck!
