@@ -1,4 +1,4 @@
-# Ethereum-Stealer windows edition only
+# Ethereum-Wallet-Cracker edition only
 Generate random ethereum wallets &amp; private keys and then check if they match a wallet that contains some kind of balance, so that you can take it. In Node.js
 
 # REQUIREMENTS
