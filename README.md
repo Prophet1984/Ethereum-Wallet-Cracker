@@ -4,7 +4,7 @@ Generate random ethereum wallets &amp; private keys and then check if they match
 # REQUIREMENTS
 1. Install Node.js >  https://nodejs.org/en/download/
 2. Start Command Promt and type: cd.. (root folder adress of your program) and hit enter
-3. type npm install ethers in the command promt hit inter and after has finished installing close the window
+3. type > npm install ethers < in the command promt hit enter and after has finished installing close the window
 4. Lots of time on your hands.. there's a lot and I mean A LOT of possible addresses and keys, you will be extremely lucky to find any that will match your riches.txt list.
 
 # HOW TO RUN
